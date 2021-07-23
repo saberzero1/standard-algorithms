@@ -5,9 +5,9 @@ Collection of Standard Algorithms in C#.
 
 ## Finished
 
-## In Progress
+ - [Binary Search Algorithm](https://en.wikipedia.org/wiki/Binary_search_algorithm)
 
- - Binary Search Algorithm
+## In Progress
 
 ## To Do
 
