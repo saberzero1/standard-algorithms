@@ -1,17 +1,17 @@
 
 # Standard Algorithms
 
-Collection of Standard Algorithms in C#.
+Collection of commonly used Standard Algorithms for Computer Science in C#.
 
 ## Finished
 
  - [Binary Search Algorithm](https://en.wikipedia.org/wiki/Binary_search_algorithm)
+ - [Breadth First Search (BFS) Algorithm](https://en.wikipedia.org/wiki/Breadth-first_search)
 
 ## In Progress
 
 ## To Do
 
- - Breadth First Search (BFS) Algorithm
  - Depth First Search (DFS) Algorithm
  - Inorder, Preorder, Postorder Tree Traversals
  - Insertion Sort, Selection Sort, Merge Sort, Quicksort, Counting Sort, Heap Sort
